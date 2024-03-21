@@ -1,6 +1,7 @@
 module.exports = () => {
   return [
     {
+      id: 1,
       name: "name 1",
       phone: "phone 1",
       email: "email 1",
@@ -8,6 +9,7 @@ module.exports = () => {
       unit: "unit 1",
     },
     {
+      id: 2,
       name: "name 2",
       phone: "phone 2",
       email: "email 2",
@@ -15,6 +17,7 @@ module.exports = () => {
       unit: "unit 2",
     },
     {
+      id: 3,
       name: "name 3",
       phone: "phone 3",
       email: "email 3",
@@ -22,6 +25,7 @@ module.exports = () => {
       unit: "unit 3",
     },
     {
+      id: 4,
       name: "name 4",
       phone: "phone 4",
       email: "email 4",
@@ -29,6 +33,7 @@ module.exports = () => {
       unit: "unit 4",
     },
     {
+      id: 5,
       name: "name 5",
       phone: "phone 5",
       email: "email 5",

@@ -1,0 +1,34 @@
+module.exports = () => {
+  return [
+    {
+      wing: "wing 1",
+      society: "society 1",
+      unit: "unit 1",
+    },
+    {
+      wing: "wing 2",
+      society: "society 2",
+      unit: "unit 2",
+    },
+    {
+      wing: "wing 3",
+      society: "society 3",
+      unit: "unit 3",
+    },
+    {
+      wing: "wing 4",
+      society: "society 4",
+      unit: "unit 4",
+    },
+    {
+      wing: "wing 5",
+      society: "society 5",
+      unit: "unit 5",
+    },
+    {
+      wing: "wing 6",
+      society: "society 6",
+      unit: "unit 6",
+    },
+  ];
+};
